@@ -1,0 +1,40 @@
+body {
+  background-color: aquamarine;
+  background-image: url("images/polygon.png")
+}
+
+.self-picture {
+  max-width:20%;
+  height:auto; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  width: 50%;
+  border-radius: 50%;
+  border: 5px solid;
+  border-color: darkblue;
+}
+
+.name {
+text-align: center;
+font-size: xx-large;
+font-weight: bold;
+color: lightgrey
+} 
+
+.phone {
+  text-align: center;
+  font-size: large;
+  color: lightblue
+}
+
+.twit-picture {
+  max-width: 50px;
+}
+
+.social-images {
+  display: block;
+  margin-left: 886px;
+  margin-right: 200px;
+}
